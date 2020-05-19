@@ -1,2 +1,7 @@
 # General
 .DS_Store
+.vscode
+
+# Files
+bin
+obj
